@@ -8,12 +8,12 @@ Supports file transfer from Server to Client via TCP Socket
 Clearly separated structure for Server and Client components
 Allows customization of port numbers and IP addresses
 📂 Project Structure
-<pre> ├── Client.java
+<pre>├── Client.java
 ├── ClientConnection.java
 ├── FileServer.java
 ├── Server.java
 ├── Server1.java
-├── ServerNew.java </pre>
+├── ServerNew.java</pre>
 
 Description of Key Files:
 -`Client.java` – Main class for the Client; connects to the Server and receives files
