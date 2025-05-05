@@ -16,6 +16,7 @@ Allows customization of port numbers and IP addresses
 ├── ServerNew.java</pre>
 
 Description of Key Files:
+
 -`Client.java` – Main class for the Client; connects to the Server and receives files
 
 -`ClientConnection.java` – Manages the connection and data receiving from the Server
