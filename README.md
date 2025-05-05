@@ -1,13 +1,14 @@
-📁 Download File Between Server and Client Project
+# 📁 Download File Between Server and Client Project
 
 This project demonstrates file transfer between a Server and a Client using Java sockets. It allows efficient file transmission from the Server to the Client over a TCP connection.
 
-🛠️ Features
+# 🛠️ Features
 
 Supports file transfer from Server to Client via TCP Socket
 Clearly separated structure for Server and Client components
 Allows customization of port numbers and IP addresses
-📂 Project Structure
+
+# 📂 Project Structure
 <pre>├── Client.java
 ├── ClientConnection.java
 ├── FileServer.java
@@ -25,7 +26,7 @@ Description of Key Files:
 
 -`Server.java`, `Server1.java`, `ServerNew.java` – Various Server versions for testing and development
 
-🚀 How to Use
+# 🚀 How to Use
 
 1. Compile
 Use the following command to compile all Java files:
@@ -41,14 +42,14 @@ Start the Client using:
 <pre> java Client </pre>
 Note: Make sure the Server is running before starting the Client.
 
-✅ Requirements
+# ✅ Requirements
 - Java Development Kit (JDK) version 8 or above
 - Any Java-supported operating system (Windows, macOS, Linux)
 
-📌 Additional Notes
+# 📌 Additional Notes
 This is a beginner-level project aimed at learning how to implement file transfers using Java Sockets.
 You may enhance it to support multiple file types, add security features, or improve the interface.
 
-📄 License
+# 📄 License
 
 No specific license has been provided for this project. Please contact the project owner before using or redistributing.
