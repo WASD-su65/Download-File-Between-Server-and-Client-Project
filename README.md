@@ -50,4 +50,5 @@ This is a beginner-level project aimed at learning how to implement file transfe
 You may enhance it to support multiple file types, add security features, or improve the interface.
 
 📄 License
+
 No specific license has been provided for this project. Please contact the project owner before using or redistributing.
