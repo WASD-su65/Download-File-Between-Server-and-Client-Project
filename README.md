@@ -8,18 +8,18 @@ Supports file transfer from Server to Client via TCP Socket
 Clearly separated structure for Server and Client components
 Allows customization of port numbers and IP addresses
 📂 Project Structure
-├── Client.java
+<pre> ├── Client.java
 ├── ClientConnection.java
 ├── FileServer.java
 ├── Server.java
 ├── Server1.java
-├── ServerNew.java
+├── ServerNew.java </pre>
 
 Description of Key Files:
-`Client.java` – Main class for the Client; connects to the Server and receives files
-`ClientConnection.java` – Manages the connection and data receiving from the Server
-`FileServer.java` – Main class for the Server; responsible for sending files to the Client
-`Server.java`, `Server1.java`, `ServerNew.java` – Various Server versions for testing and development
+-`Client.java` – Main class for the Client; connects to the Server and receives files
+-`ClientConnection.java` – Manages the connection and data receiving from the Server
+-`FileServer.java` – Main class for the Server; responsible for sending files to the Client
+-`Server.java`, `Server1.java`, `ServerNew.java` – Various Server versions for testing and development
 
 🚀 How to Use
 
